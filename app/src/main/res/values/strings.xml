@@ -7,8 +7,9 @@
 
     <!-- Novella info -->
     <!-- The Fifty Shades of Grey -->
-    <string name="fifty_shades_of_Grey">Fifty Shades of Grey</string>
+    <string name="fifty_shades_of_grey">Fifty Shades of Grey</string>
     <string name="fifty_shades_author">E L James</string>
+    <string name="fifty_shades_of_grey_isbn_number">00001</string>
     <string name="fifty_shades_description">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
@@ -22,7 +23,78 @@
     <!-- Gone Girl -->
     <string name="gone_girl">Gone Girl</string>
     <string name="gone_girl_author">Gillian Flynn</string>
+    <string name="gone_girl_isbn_number">00002</string>
     <string name="gone_girl_description">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
+
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#10;
+    Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra,&#10;
+    est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
+    </string>
+
+    <!-- The Women in the Window -->
+    <string name="the_women_in_the_window">The Women in the Window</string>
+    <string name="the_women_in_the_window_author">A J Finn</string>
+    <string name="the_women_in_the_window_isbn_number">00003</string>
+    <string name="the_women_in_the_window_description">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
+
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#10;
+    Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra,&#10;
+    est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
+    </string>
+
+    <!-- White Tiger -->
+    <string name="white_tiger">The White Tiger</string>
+    <string name="white_tiger_author">Aravind Adiga</string>
+    <string name="white_tiger_isbn_number">00004</string>
+    <string name="white_tiger_description">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
+
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#10;
+    Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra,&#10;
+    est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
+    </string>
+
+    <!-- Power Trip -->
+    <string name="power_trip">The Power Trip</string>
+    <string name="power_trip_author">Jackie Collins</string>
+    <string name="power_trip_isbn_number">00005</string>
+    <string name="power_trip_description">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
+
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#10;
+    Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra,&#10;
+    est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
+    </string>
+
+    <!-- Couple in the photo -->
+    <string name="couple_in_the_photo">The Couple in the Photo</string>
+    <string name="couple_in_the_photo_author">Helen Cooper</string>
+    <string name="couple_in_the_photo_isbn_number">00006</string>
+    <string name="couple_in_the_photo_description">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
+
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#10;
+    Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra,&#10;
+    est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
+    </string>
+
+    <!-- The spy who came in from the cold -->
+    <string name="the_spy_who_came_in_from_the_cold">The Spy Who Came in from the Cold</string>
+    <string name="the_spy_who_came_in_from_the_cold_author">John Le Carre</string>
+    <string name="he_spy_who_came_in_from_the_cold_isbn_number">00007</string>
+    <string name="the_spy_who_came_in_from_the_cold_description">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
@@ -35,6 +107,7 @@
     <!-- The Girl on the Train -->
     <string name="the_women_in_the_window">The Women in the Window</string>
     <string name="the_women_in_the_window_author">A J Finn</string>
+    <string name="the_women_in_the_window_isbn_number">00003</string>
     <string name="the_women_in_the_window_description">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
@@ -45,10 +118,11 @@
     est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
     </string>
 
-    <!-- The Fifty Shades of Grey -->
-    <string name="white_tiger">The White Tiger</string>
-    <string name="white_tiger_author">Aravind Adiga</string>
-    <string name="white_tiger_description">
+    <!-- The Girl on the Train -->
+    <string name="the_women_in_the_window">The Women in the Window</string>
+    <string name="the_women_in_the_window_author">A J Finn</string>
+    <string name="the_women_in_the_window_isbn_number">00003</string>
+    <string name="the_women_in_the_window_description">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
@@ -58,10 +132,11 @@
     est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
     </string>
 
-    <!-- The Fifty Shades of Grey -->
-    <string name="power_trip">The Power Trip</string>
-    <string name="power_trip_author">Jackie Collins</string>
-    <string name="power_trip_description">
+    <!-- The Girl on the Train -->
+    <string name="the_women_in_the_window">The Women in the Window</string>
+    <string name="the_women_in_the_window_author">A J Finn</string>
+    <string name="the_women_in_the_window_isbn_number">00003</string>
+    <string name="the_women_in_the_window_description">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
@@ -71,10 +146,11 @@
     est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
     </string>
 
-    <!-- The Fifty Shades of Grey -->
-    <string name="couple_in_the_photo">The Couple in the Photo</string>
-    <string name="couple_in_the_photo_author">Helen Cooper</string>
-    <string name="couple_in_the_photo_description">
+    <!-- The Girl on the Train -->
+    <string name="the_women_in_the_window">The Women in the Window</string>
+    <string name="the_women_in_the_window_author">A J Finn</string>
+    <string name="the_women_in_the_window_isbn_number">00003</string>
+    <string name="the_women_in_the_window_description">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
@@ -84,10 +160,11 @@
     est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
     </string>
 
-    <!-- The Fifty Shades of Grey -->
-    <string name="the_spy_who_came_in_from_the_cold">The Spy Who Came in from the Cold</string>
-    <string name="the_spy_who_came_in_from_the_cold_author">John Le Carre</string>
-    <string name="the_spy_who_came_in_from_the_cold_description">
+    <!-- The Girl on the Train -->
+    <string name="the_women_in_the_window">The Women in the Window</string>
+    <string name="the_women_in_the_window_author">A J Finn</string>
+    <string name="the_women_in_the_window_isbn_number">00003</string>
+    <string name="the_women_in_the_window_description">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
@@ -97,10 +174,11 @@
     est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
     </string>
 
-    <!-- The Fifty Shades of Grey -->
-    <string name="fifty_shades_of_Grey">Fifty Shades of Grey</string>
-    <string name="fifty_shades_author">E L James</string>
-    <string name="fifty_shades_description">
+    <!-- The Girl on the Train -->
+    <string name="the_women_in_the_window">The Women in the Window</string>
+    <string name="the_women_in_the_window_author">A J Finn</string>
+    <string name="the_women_in_the_window_isbn_number">00003</string>
+    <string name="the_women_in_the_window_description">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
@@ -110,10 +188,11 @@
     est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
     </string>
 
-    <!-- The Fifty Shades of Grey -->
-    <string name="fifty_shades_of_Grey">Fifty Shades of Grey</string>
-    <string name="fifty_shades_author">E L James</string>
-    <string name="fifty_shades_description">
+    <!-- The Girl on the Train -->
+    <string name="the_women_in_the_window">The Women in the Window</string>
+    <string name="the_women_in_the_window_author">A J Finn</string>
+    <string name="the_women_in_the_window_isbn_number">00003</string>
+    <string name="the_women_in_the_window_description">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
@@ -123,10 +202,11 @@
     est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
     </string>
 
-    <!-- The Fifty Shades of Grey -->
-    <string name="fifty_shades_of_Grey">Fifty Shades of Grey</string>
-    <string name="fifty_shades_author">E L James</string>
-    <string name="fifty_shades_description">
+    <!-- The Girl on the Train -->
+    <string name="the_women_in_the_window">The Women in the Window</string>
+    <string name="the_women_in_the_window_author">A J Finn</string>
+    <string name="the_women_in_the_window_isbn_number">00003</string>
+    <string name="the_women_in_the_window_description">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
@@ -136,10 +216,11 @@
     est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
     </string>
 
-    <!-- The Fifty Shades of Grey -->
-    <string name="fifty_shades_of_Grey">Fifty Shades of Grey</string>
-    <string name="fifty_shades_author">E L James</string>
-    <string name="fifty_shades_description">
+    <!-- The Girl on the Train -->
+    <string name="the_women_in_the_window">The Women in the Window</string>
+    <string name="the_women_in_the_window_author">A J Finn</string>
+    <string name="the_women_in_the_window_isbn_number">00003</string>
+    <string name="the_women_in_the_window_description">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
@@ -149,10 +230,11 @@
     est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
     </string>
 
-    <!-- The Fifty Shades of Grey -->
-    <string name="fifty_shades_of_Grey">Fifty Shades of Grey</string>
-    <string name="fifty_shades_author">E L James</string>
-    <string name="fifty_shades_description">
+    <!-- The Girl on the Train -->
+    <string name="the_women_in_the_window">The Women in the Window</string>
+    <string name="the_women_in_the_window_author">A J Finn</string>
+    <string name="the_women_in_the_window_isbn_number">00003</string>
+    <string name="the_women_in_the_window_description">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
@@ -162,16 +244,5 @@
     est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
     </string>
 
-    <!-- The Fifty Shades of Grey -->
-    <string name="fifty_shades_of_Grey">Fifty Shades of Grey</string>
-    <string name="fifty_shades_author">E L James</string>
-    <string name="fifty_shades_description">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
 
-    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#10;
-    Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra,&#10;
-    est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
-    </string>
 </resources>
