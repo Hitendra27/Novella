@@ -56,4 +56,26 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
+
+    // Navigation
+    implementation("androidx.navigation:navigation-compose:2.7.0")
+    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.1")
+
+    // For ViewModel & coroutine testing
+    testImplementation("app.cash.turbine:turbine:1.0.0")
+    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.7.3")
+    testImplementation("junit:junit:4.13.2")
+
+
+    // For core Material icons (Filled, Outlined, Rounded, Sharp, TwoTone)
+    implementation("androidx.compose.material:material-icons-core:1.6.7") // Use the latest version
+
+    // For the full set of extended Material icons (includes the core ones)
+    // You typically only need one of these, extended includes core.
+    implementation("androidx.compose.material:material-icons-extended:1.6.7") // Use the latest version
+
+    // If you're using Material 3 components
+    implementation("androidx.compose.material3:material3:1.2.1") // Use the latest M3 version
+    testImplementation(kotlin("test"))
+
 }
