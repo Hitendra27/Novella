@@ -1,4 +1,4 @@
-package com.example.novella.model
+package com.example.novella.data.model
 
 data class NovelBooks(
     val id: Int,
