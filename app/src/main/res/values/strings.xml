@@ -104,11 +104,81 @@
     est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
     </string>
 
-    <!-- The Girl on the Train -->
-    <string name="the_women_in_the_window">The Women in the Window</string>
-    <string name="the_women_in_the_window_author">A J Finn</string>
-    <string name="the_women_in_the_window_isbn_number">00003</string>
-    <string name="the_women_in_the_window_description">
+    <!-- This is why we lied -->
+    <string name="this_is_why_we_lied">This is Why We Lied</string>
+    <string name="this_is_why_we_lied_author">Karin Slaughter</string>
+    <string name="this_is_why_we_lied_isbn_number">00008</string>
+    <string name="this_is_why_we_lied_description">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
+
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#10;
+    Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra,&#10;
+    est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
+    </string>
+
+    <!-- Agent Seventeen -->
+    <string name="agent_seventeen">Agent Seventeen</string>
+    <string name="agent_seventeen_author">John Brownlow</string>
+    <string name="agent_seventeen_isbn_number">00009</string>
+    <string name="agent_seventeen_description">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
+
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#10;
+    Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra,&#10;
+    est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
+    </string>
+
+    <!-- Wrong Place Wrong Time -->
+    <string name="wrong_place_wrong_time">Wrong Place Wrong Time</string>
+    <string name="wrong_place_wrong_time_author">Gillian McAllister</string>
+    <string name="wrong_place_wrong_time_isbn_number">00010</string>
+    <string name="wrong_place_wrong_time_description">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
+
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#10;
+    Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra,&#10;
+    est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
+    </string>
+
+    <!-- Lock Every Door -->
+    <string name="lock_every_door">Lock Every Door</string>
+    <string name="lock_every_door_author">Riley Sager</string>
+    <string name="lock_every_door_isbn_number">00011</string>
+    <string name="lock_every_door_description">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
+
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#10;
+    Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra,&#10;
+    est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
+    </string>
+
+    <!-- The Younger Women -->
+    <string name="the_younger_women">The Younger Women</string>
+    <string name="the_younger_women_author">Mandy Byatt</string>
+    <string name="the_younger_women_isbn_number">00012</string>
+    <string name="the_younger_women_description">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
+
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#10;
+    Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra,&#10;
+    est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
+    </string>
+
+    <!-- Beirut Station -->
+    <string name="beirut_station">Beirut Station</string>
+    <string name="beirut_station_author">Paul Vidich</string>
+    <string name="beirut_station_isbn_number">00013</string>
+    <string name="beirut_station_description">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
@@ -119,10 +189,10 @@
     </string>
 
     <!-- The Girl on the Train -->
-    <string name="the_women_in_the_window">The Women in the Window</string>
-    <string name="the_women_in_the_window_author">A J Finn</string>
-    <string name="the_women_in_the_window_isbn_number">00003</string>
-    <string name="the_women_in_the_window_description">
+    <string name="the_girl_on_the_train">The Girl on the Train</string>
+    <string name="the_girl_on_the_train_author">Paula Hawkins</string>
+    <string name="the_girl_on_the_train_isbn_number">00014</string>
+    <string name="the_girl_on_the_train_description">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
@@ -132,11 +202,11 @@
     est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
     </string>
 
-    <!-- The Girl on the Train -->
-    <string name="the_women_in_the_window">The Women in the Window</string>
-    <string name="the_women_in_the_window_author">A J Finn</string>
-    <string name="the_women_in_the_window_isbn_number">00003</string>
-    <string name="the_women_in_the_window_description">
+    <!-- The Perfect Lie -->
+    <string name="the_perfect_lie">The Perfect Lie</string>
+    <string name="the_perfect_lie_author">Jo Spain</string>
+    <string name="the_perfect_lie_isbn_number">00015</string>
+    <string name="the_perfect_lie_description">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
@@ -146,11 +216,11 @@
     est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
     </string>
 
-    <!-- The Girl on the Train -->
-    <string name="the_women_in_the_window">The Women in the Window</string>
-    <string name="the_women_in_the_window_author">A J Finn</string>
-    <string name="the_women_in_the_window_isbn_number">00003</string>
-    <string name="the_women_in_the_window_description">
+    <!-- The Lake -->
+    <string name="the_lake">The Lake</string>
+    <string name="the_lake_author">Catherine Cooper</string>
+    <string name="the_lake_isbn_number">00016</string>
+    <string name="the_lake_description">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
@@ -160,81 +230,11 @@
     est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
     </string>
 
-    <!-- The Girl on the Train -->
-    <string name="the_women_in_the_window">The Women in the Window</string>
-    <string name="the_women_in_the_window_author">A J Finn</string>
-    <string name="the_women_in_the_window_isbn_number">00003</string>
-    <string name="the_women_in_the_window_description">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
-
-    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#10;
-    Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra,&#10;
-    est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
-    </string>
-
-    <!-- The Girl on the Train -->
-    <string name="the_women_in_the_window">The Women in the Window</string>
-    <string name="the_women_in_the_window_author">A J Finn</string>
-    <string name="the_women_in_the_window_isbn_number">00003</string>
-    <string name="the_women_in_the_window_description">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
-
-    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#10;
-    Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra,&#10;
-    est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
-    </string>
-
-    <!-- The Girl on the Train -->
-    <string name="the_women_in_the_window">The Women in the Window</string>
-    <string name="the_women_in_the_window_author">A J Finn</string>
-    <string name="the_women_in_the_window_isbn_number">00003</string>
-    <string name="the_women_in_the_window_description">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
-
-    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#10;
-    Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra,&#10;
-    est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
-    </string>
-
-    <!-- The Girl on the Train -->
-    <string name="the_women_in_the_window">The Women in the Window</string>
-    <string name="the_women_in_the_window_author">A J Finn</string>
-    <string name="the_women_in_the_window_isbn_number">00003</string>
-    <string name="the_women_in_the_window_description">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
-
-    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#10;
-    Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra,&#10;
-    est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
-    </string>
-
-    <!-- The Girl on the Train -->
-    <string name="the_women_in_the_window">The Women in the Window</string>
-    <string name="the_women_in_the_window_author">A J Finn</string>
-    <string name="the_women_in_the_window_isbn_number">00003</string>
-    <string name="the_women_in_the_window_description">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
-
-    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#10;
-    Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra,&#10;
-    est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
-    </string>
-
-    <!-- The Girl on the Train -->
-    <string name="the_women_in_the_window">The Women in the Window</string>
-    <string name="the_women_in_the_window_author">A J Finn</string>
-    <string name="the_women_in_the_window_isbn_number">00003</string>
-    <string name="the_women_in_the_window_description">
+    <!-- The Penthouse -->
+    <string name="the_penthouse">The Penthouse</string>
+    <string name="the_penthouse_author">Catherine Cooper</string>
+    <string name="the_penthouse_isbn_number">00017</string>
+    <string name="the_penthouse_description">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
