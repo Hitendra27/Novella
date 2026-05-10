@@ -359,7 +359,7 @@
         <!-- Nine Perfect Strangers -->
     <string name="nine_perfect_strangers">Nine Perfect Strangers</string>
     <string name="nine_perfect_strangers_author">Catherine Cooper</string>
-    <string name="nine_perfect_strangers_isbn_number">00017</string>
+    <string name="nine_perfect_strangers_isbn_number">00026</string>
     <string name="nine_perfect_strangers_description">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
@@ -370,11 +370,11 @@
     est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
     </string>
 
-        <!-- The Penthouse -->
-    <string name="the_penthouse">The Penthouse</string>
-    <string name="the_penthouse_author">Catherine Cooper</string>
-    <string name="the_penthouse_isbn_number">00017</string>
-    <string name="the_penthouse_description">
+        <!-- A Calamity of Souls -->
+    <string name="a_calamity_of_souls">A Calamity of Souls</string>
+    <string name="a_calamity_of_souls_author">David Baldacci</string>
+    <string name="a_calamity_of_souls_isbn_number">00027</string>
+    <string name="a_calamity_of_souls_description">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
@@ -384,11 +384,11 @@
     est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
     </string>
 
-        <!-- The Penthouse -->
-    <string name="the_penthouse">The Penthouse</string>
-    <string name="the_penthouse_author">Catherine Cooper</string>
-    <string name="the_penthouse_isbn_number">00017</string>
-    <string name="the_penthouse_description">
+        <!-- The Institute -->
+    <string name="the_intstitute">The Institute</string>
+    <string name="the_intstitute_author">Stephen King</string>
+    <string name="the_intstitute_isbn_number">00028</string>
+    <string name="the_intstitute_description">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
@@ -398,11 +398,25 @@
     est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
     </string>
 
-        <!-- The Penthouse -->
-    <string name="the_penthouse">The Penthouse</string>
-    <string name="the_penthouse_author">Catherine Cooper</string>
-    <string name="the_penthouse_isbn_number">00017</string>
-    <string name="the_penthouse_description">
+        <!-- The Cruise -->
+    <string name="the_cruise">The Cruise</string>
+    <string name="the_cruise_author">Catherine Cooper</string>
+    <string name="the_cruise_isbn_number">00029</string>
+    <string name="the_cruise_description">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
+
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#10;
+    Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra,&#10;
+    est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
+    </string>
+
+      <!-- The Island -->
+    <string name="the_island">The Island</string>
+    <string name="the_island_author">Catherine Cooper</string>
+    <string name="the_island_isbn_number">00030</string>
+    <string name="the_island_description">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
