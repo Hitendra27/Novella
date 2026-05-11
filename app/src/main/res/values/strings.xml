@@ -35,10 +35,10 @@
     </string>
 
     <!-- The Women in the Window -->
-    <string name="the_women_in_the_window">The Women in the Window</string>
-    <string name="the_women_in_the_window_author">A J Finn</string>
-    <string name="the_women_in_the_window_isbn_number">00003</string>
-    <string name="the_women_in_the_window_description">
+    <string name="this_is_why_we_lied">This is why we Lied</string>
+    <string name="this_is_why_we_lied_author">Karin Slaughter</string>
+    <string name="this_is_why_we_lied_isbn_number">00008</string>
+    <string name="this_is_why_we_lied_description">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
@@ -95,20 +95,6 @@
     <string name="the_spy_who_came_in_from_the_cold_author">John Le Carre</string>
     <string name="he_spy_who_came_in_from_the_cold_isbn_number">00007</string>
     <string name="the_spy_who_came_in_from_the_cold_description">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
-
-    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#10;
-    Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra,&#10;
-    est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
-    </string>
-
-    <!-- This is why we lied -->
-    <string name="this_is_why_we_lied">This is Why We Lied</string>
-    <string name="this_is_why_we_lied_author">Karin Slaughter</string>
-    <string name="this_is_why_we_lied_isbn_number">00008</string>
-    <string name="this_is_why_we_lied_description">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
@@ -411,20 +397,5 @@
     Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra,&#10;
     est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
     </string>
-
-      <!-- The Island -->
-    <string name="the_island">The Island</string>
-    <string name="the_island_author">Catherine Cooper</string>
-    <string name="the_island_isbn_number">00030</string>
-    <string name="the_island_description">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#10;
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#10;
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#10;&#10;
-
-    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#10;
-    Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra,&#10;
-    est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida.
-    </string>
-
 
 </resources>
